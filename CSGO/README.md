@@ -13,6 +13,22 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensivw (rig
 + Enhance Pointer Precision: No  
 + Mouse DPI: 1750  
 + Mouse Polling Rate: 1000hz  
-+ Windows Aero: No - `hl2.exe Properties > Compatibility > Disable visual themes & Disable desktop composition`
-+ I play at 1920x1080 I like the feel and the pov but it's purely preference.
++ Windows Aero: No - `hl2.exe Properties > Compatibility > Disable visual themes & Disable desktop composition`  
+
+### Graphics
++ Brightness: 1.6  
++ Color Mode: Computer Monitor  
++ Aspect Ratio: 16:9  
++ Resolution: 1920x1080  
++ Display Mode: Fullscreen  
++ Laptop Power Savings: Disabled  
+
+#### Advanced Video Settings  
++ Global Shadow Quality: High  
++ Model/Texture Detail: High  
++ Effect Detail: High  
++ Shader Detail: Very High  
++ Multicore Rendering: Enabled  
++ 
+### Audio
 + In-Game Audio Ouput: Headphones 
