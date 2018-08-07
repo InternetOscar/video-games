@@ -29,6 +29,11 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensivw (rig
 + Effect Detail: High  
 + Shader Detail: Very High  
 + Multicore Rendering: Enabled  
-+ 
++ Multisampling Anti-aliasing Mode: 8x MSAA
++ Texture Filtering Mode: Anistrophic 16x
++ FXAA Anti-aliasing: Disabled
++ Wait for vertical sync: disabled
++ Motion Blur: Disabled
+
 ### Audio
 + In-Game Audio Ouput: Headphones 
