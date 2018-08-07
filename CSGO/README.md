@@ -1,1 +1,1 @@
-#internetoscar's csgo settings and configs
+# internetoscar's csgo settings and configs
