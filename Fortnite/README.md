@@ -4,8 +4,6 @@
 
 | Letter  | Use The Letters |Does it work? |
 | --- | --- |---
-| Works | `Copy and paste this letter(s) | ✓ |
-| Name of letter | 'Copy and paste this one` | ✗  |
 | Alpha | `Α` / `α` |  |  
 | Beta | `Β` / `β` |  |  
 | Gamma | `Γ` / `γ` |  |
