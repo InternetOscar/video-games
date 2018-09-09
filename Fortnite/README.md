@@ -2,7 +2,7 @@
 
 ##Useable greek letters in fortnite names
 
-| Letter  | Does it work? |
-| ------------- | ------------- |
-| `Works`  | ✓ |
-| `Doesn't Work`  | ✗  |
+| Letter  | Use The Letters |Does it work? |
+| --- | --- |---
+| Works | `Copy and paste this letter(s) | ✓ |
+| Name of letter | 'Copy and paste this one` | ✗  |
