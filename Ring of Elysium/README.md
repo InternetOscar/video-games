@@ -10,3 +10,16 @@
 | Anti-Aliasing          | Standard   |
 | Render Style           | Vibrant    |
 | Auto-Record Highlights | On         |
+
+## Audio
+
+| Master Volume       |    on/100    |
+|---------------------|:------------:|
+| Sounds              |    on/100    |
+| Music               |      Off     |
+| Voice Mode          | Push To Talk |
+| Voice Channel       | Team         |
+| Voice Output Volume | 100          |
+| Mic Volume          | 100          |
+| Mic Boost           | 0            |
+| Push-to-Talk key    | u            |
