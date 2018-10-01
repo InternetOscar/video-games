@@ -1,5 +1,6 @@
-#Ring of Elysium Settings.
-##Graphics
+# Ring of Elysium Settings.
+## Graphics
+
 | Monitor Mode           | Fullscreen |
 |------------------------|:----------:|
 | Resolution             |  1920x1080 |
