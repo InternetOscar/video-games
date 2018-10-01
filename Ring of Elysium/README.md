@@ -24,7 +24,7 @@
 | Mic Boost           | 0            |
 | Push-to-Talk key    | u            |
 
-# Miscellaneous
+## Miscellaneous
 
 | Show Progress Bar                              |   on   |
 |------------------------------------------------|:------:|
@@ -39,3 +39,5 @@
 | Enable auto peek                               | off    |
 | Enable auto-peek in ADS Mode                   | off    |
 | Show Hat                                       | on     |
+
+## Controls
