@@ -23,3 +23,19 @@
 | Mic Volume          | 100          |
 | Mic Boost           | 0            |
 | Push-to-Talk key    | u            |
+
+# Miscellaneous
+
+| Show Progress Bar                              |   on   |
+|------------------------------------------------|:------:|
+| Sprint                                         |  hold  |
+| Walk                                           |  hold  |
+| TPP ADS Mode (hold option will disable aiming) | Toggle |
+| FPP ADS Mode                                   | Toggle |
+| Mouse look invert                              | off    |
+| Reset the camera when exit free look           | on     |
+| Scroll Switches main weapons only              | on     |
+| Enable vault when crouching                    | u      |
+| Enable auto peek                               | off    |
+| Enable auto-peek in ADS Mode                   | off    |
+| Show Hat                                       | on     |
